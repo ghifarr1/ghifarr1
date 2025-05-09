@@ -145,12 +145,19 @@
 <div align="center">
   <h3>🎮 GitHub Contribution Game 🎮</h3>
   
-  <!-- Snake Animation -->
-  <img src="https://github.com/ghifarr1/ghifarr1/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  
-  <!-- Pac-Man Animation -->
-  <img src="https://github.com/ghifarr1/ghifarr1/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Pac-Man Animation" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghifarr1&theme=react-dark" alt="GitHub Activity Graph" width="850" />
