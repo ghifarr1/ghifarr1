@@ -24,12 +24,6 @@
     <li>🧠 Problem solver with an analytical mindset</li>
   </ul>
   
-  <div align="center">
-    <a href="https://github.com/ghifarr1">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifarr1&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
-    </a>
-  </div>
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Tech Stack
 
@@ -38,7 +32,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -48,16 +41,23 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
+  <div align="center">
+    <a href="https://github.com/ghifarr1">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifarr1&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+    </a>
+  </div>
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Projects Showcase
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Web Development Project (TUBES-DPW)</h3>
+        <h3 align="center">PinusKu - Digital Booking Camp Store</h3>
         <div align="center">
           <a href="https://github.com/ghifarr1/TUBES-DPW" target="_blank">
-            <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="250" alt="Web Development Project"/>
+            <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Web Development Project"/>
           </a>
           <p>
             <a href="https://github.com/ghifarr1/TUBES-DPW" target="_blank">
@@ -67,14 +67,14 @@
               <img src="https://img.shields.io/badge/REPO-0FAAFF?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
-          <p><strong>PHP, HTML/CSS, JavaScript, MySQL</strong> - A comprehensive web application project created as my final assignment for the Web Development course.</p>
+          <p><strong>PHP, HTML/CSS, JavaScript, MySQL</strong> - The key idea is to develop a website service that allows users to book camping tools online for their outdoor activities.</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Machine Learning Project (TUBES-MLAI)</h3>
+        <h3 align="center">Football Match Prediction Using Machine Learning</h3>
         <div align="center">
           <a href="https://github.com/ghifarr1/TUBES-MLAI" target="_blank">
-            <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" alt="Machine Learning Project"/>
+            <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300" height="200" alt="Machine Learning Project"/>
           </a>
           <p>
             <a href="https://github.com/ghifarr1/TUBES-MLAI" target="_blank">
@@ -84,7 +84,7 @@
               <img src="https://img.shields.io/badge/REPO-0FAAFF?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </p>
-          <p><strong>Python, TensorFlow, Pandas, NumPy</strong> - An AI/ML project demonstrating data processing and machine learning model implementation for my AI course.</p>
+          <p><strong>Python, TensorFlow, Pandas, NumPy</strong> - An AI/ML project developed a predictive model to analyze and forecast football match outcomes based on historical match data.</p>
         </div>
       </td>
     </tr>
@@ -141,10 +141,16 @@
   <img src="https://streak-stats.demolab.com/?user=ghifarr1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<!-- Snake animation and Pac-Man contribution game -->
+###
+
 <div align="center">
-  <h3>🎮 GitHub Contribution Game 🎮</h3>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghifarr1&theme=react-dark" alt="GitHub Activity Graph" width="850" />
+</div>
+
+<!-- Snake animation and Pac-Man contribution game -->
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /> Play Games With Me! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" /></h2>
+
+<div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/snake.svg" alt="Snake animation" />
@@ -156,12 +162,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghifarr1&theme=react-dark" alt="GitHub Activity Graph" width="850" />
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Connect with Me
 
