@@ -48,49 +48,6 @@
   </div>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Projects Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">PinusKu - Digital Booking Camp Store</h3>
-        <div align="center">
-          <a href="https://github.com/ghifarr1/TUBES-DPW" target="_blank">
-            <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" alt="Web Development Project"/>
-          </a>
-          <p>
-            <a href="https://github.com/ghifarr1/TUBES-DPW" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://github.com/ghifarr1/TUBES-DPW" target="_blank">
-              <img src="https://img.shields.io/badge/REPO-0FAAFF?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-          </p>
-          <p><strong>PHP, HTML/CSS, JavaScript, MySQL</strong> - The key idea is to develop a website service that allows users to book camping tools online for their outdoor activities.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Football Match Prediction Using Machine Learning</h3>
-        <div align="center">
-          <a href="https://github.com/ghifarr1/TUBES-MLAI" target="_blank">
-            <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300" height="200" alt="Machine Learning Project"/>
-          </a>
-          <p>
-            <a href="https://github.com/ghifarr1/TUBES-MLAI" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://github.com/ghifarr1/TUBES-MLAI" target="_blank">
-              <img src="https://img.shields.io/badge/REPO-0FAAFF?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-          </p>
-          <p><strong>Python, TensorFlow, Pandas, NumPy</strong> - An AI/ML project developed a predictive model to analyze and forecast football match outcomes based on historical match data.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <a href="https://github.com/ghifarr1?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-1F425F?style=for-the-badge&logo=github&logoColor=white">
@@ -152,10 +109,6 @@
 
 <div align="center">
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/snake.svg" alt="Snake animation" />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph-dark.svg">
