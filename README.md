@@ -98,8 +98,6 @@
   <img src="https://streak-stats.demolab.com/?user=ghifarr1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghifarr1&theme=react-dark" alt="GitHub Activity Graph" width="850" />
 </div>
@@ -109,8 +107,6 @@
 
 <div align="center">
 <br clear="both">
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghifarr1/ghifarr1/output/pacman-contribution-graph-dark.svg">
